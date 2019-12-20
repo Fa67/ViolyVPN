@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Android VPN Client using ics-openvpn
 [![Build Status](https://travis-ci.org/gayanvoice/android-vpn-client-ics-openvpn.svg?branch=master)](https://travis-ci.org/gayanvoice/android-vpn-client-ics-openvpn) [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/gayanvoice/android-vpn-client-ics-openvpn)
 
@@ -136,3 +137,7 @@ Github https://github.com/gayanvoice/android-vpn-client-ics-openvpn
 # References
 1. [OpenVPN for Android - GitHub](https://github.com/schwabe/ics-openvpn)
 2. [Develop a VPN App in Java using Android Studio - Medium](https://medium.com/@kuruppu.gayan/develop-a-vpn-app-in-java-using-android-studio-6f1f2d66031e)
+=======
+# ViolyVPN
+ViolyVPN is a open-source and very secure VPN App
+>>>>>>> Stashed changes

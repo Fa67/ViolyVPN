@@ -1,16 +1,16 @@
 <resources>
-    <string name="app_name">Buzz VPN</string>
+    <string name="app_name">Violy VPN</string>
 
     <!--<string name="title_activity_server_list">Server Lists</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="title_activity_vpnsettings">Settings</string>-->
     <string name="get_time">%d%02d%02d%02d%02d%02d%03d</string>
-    <string name="Buzz">Buzz</string>
+    <string name="Buzz">Violy</string>
     <string name="VPN">VPN</string>
     <string name="ChicagoIL">Chicago IL</string>
-    <string name="Title">Update Your VPN App</string>
-    <string name="Description">A newer version 1.0.4 is available for download with enhanced features, and fewer bugs</string>
+    <string name="Title">Violy VPN</string>
+    <string name="Description">We are still in Beta !</string>
     <string name="Cancel">Got it</string>
     <string name="Update">Update</string>
     <string name="connect">Connect</string>
