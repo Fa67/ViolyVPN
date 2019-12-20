@@ -56,7 +56,7 @@ public class WelcomeActivity extends AppCompatActivity {
 
         mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
 
-        StringGetAppURL = "https://raw.githubusercontent.com/gayanvoice/gayanvoice.github.io/source-json/appdetails.json";
+        StringGetAppURL = "https://raw.githubusercontent.com/violy-org/ViolyVPN/master/config-json/appdetails.json";
         StringGetConnectionURL = "https://raw.githubusercontent.com/gayanvoice/gayanvoice.github.io/source-json/filedetails.json";
         //StringGetConnectionURL = "https://gayanvoice.github.io/buzz/connection.html";
 
