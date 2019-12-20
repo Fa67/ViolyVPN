@@ -1,0 +1,26 @@
+{
+  "ads":"false",
+  "update":[{
+    "version":"1.0.0",
+    "title":"This app is now Open Source",
+    "description":"The App is available at https://github.com/violy-org/ViolyVPN",
+    "size":"https://github.com/violy-org/ViolyVPN"
+  }],
+  "blocked":[
+    {"id":0, "app":"com.android.game"},
+    {"id":1, "app":"com.utorrent.client"},
+    {"id":2, "app":"com.torrent.client"},
+    {"id":3, "app":"com.tor.client"},
+    {"id":4, "app":"com.insta.client"},
+    {"id":5, "app":"com.facebook.client"},
+    {"id":6, "app":"com.get.client"}
+  ],
+  "free":[
+    {"id":0, "file":0, "city":"Unknown","country":"Japan","image":"japan","ip":"115.176.77.118","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"Unknown","country":"Vietnam","image":"vietnam","ip":"58.187.71.171","active":"true","signal":"b"},
+    {"id":2, "file":1, "city":"Unknown","country":"South Korea","image":"southkorea","ip":"121.132.208.176","active":"true","signal":"c"},
+    {"id":2, "file":1, "city":"Unknown","country":"United States","image":"unitedstates","ip":"71.59.237.21","active":"true","signal":"d"},
+    {"id":2, "file":1, "city":"Unknown","country":"Singapore","image":"singapore","ip":"220.255.174.58","active":"true","signal":"e"}
+
+  ]
+}
